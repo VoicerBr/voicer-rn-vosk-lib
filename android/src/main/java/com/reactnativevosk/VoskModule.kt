@@ -24,8 +24,8 @@ class VoskModule(reactContext: ReactApplicationContext) : ReactContextBaseJavaMo
 
     // Stop recording if data found
     if (text != null && text.isNotEmpty() && speechService != null) {
-      speechService!!.stop()
-      speechService = null
+      // speechService!!.stop()
+      // speechService = null
       // Display data
       sendEvent("onResult", text)
     }
