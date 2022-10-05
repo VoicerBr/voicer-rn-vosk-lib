@@ -1,6 +1,6 @@
 {
-  "name": "react-native-vosk",
-  "version": "0.1.9",
+  "name": "voicer-rn-vosk",
+  "version": "0.0.1",
   "description": "Speech recognition module for react native using Vosk library",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -35,8 +35,8 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/riderodd/react-native-vosk",
-  "author": "Joris Gaudin <contact@jg-web.site> (https://www.jg-web.site/)",
+  "repository": "https://github.com/VoicerBr/voicer-rn-vosk-lib.git",
+  "author": "Voicer - Antonio (antonio.centeno@voicer.tech)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/riderodd/react-native-vosk/issues"
